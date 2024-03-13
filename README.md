@@ -10,7 +10,7 @@ A recursive function to print all the ways can build an input number with sum of
 
 ## Run
 ```bash
-php recursive-build-sum.php
+python3 recursive-build-sum.py
 ```
 
 <br>
